@@ -14,6 +14,7 @@ GitHub is where I learn in public, experiment, and turn curiosity into working c
 ![](https://nirzak-streak-stats.vercel.app/?user=Soumyaranjan-17&theme=ambient_gradient&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Soumyaranjan-17&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Soumyaranjan-17&theme=default_repocard&no-frame=false&no-bg=true&margin-w=4)
 
@@ -26,4 +27,5 @@ GitHub is where I learn in public, experiment, and turn curiosity into working c
 ---
 [![](https://visitcount.itsvg.in/api?id=Soumyaranjan-17&icon=0&color=0)](https://visitcount.itsvg.in)
 
+[![roadmap.sh](https://roadmap.sh/card/wide/673ed1aa5434bf319aea14fd?variant=dark&roadmaps=cyber-security%2Cbackend%2Capi-security-best-practices%2Csystem-design)](https://roadmap.sh)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
